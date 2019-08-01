@@ -1,0 +1,8 @@
+ 1 anta shoes 41 black 1200.00 8
+ 10 anta shoes 40 black 600.00 2
+ 2 adi shoes 40 blue 1000.00 5
+ 7 qiaodan shoes 38 yellow 2220.00 12
+ 8 qiaodan T- 180 black 1760.00 11
+ 16 gloria dress 165 white 360.00 2
+ 17 fordoo jacket 180 black 1400.00 7
+ 12 hlzj pants 170 black 900.00 3
